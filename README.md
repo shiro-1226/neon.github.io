@@ -5,14 +5,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sudarshan Digital Portfolio</title>
+    <title>shravan Digital Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
-    <h1>Sudarshan dade</h1>
+    <h1>Shravan </h1>
     <nav>
         <a href="#home">Home</a>
         <a href="#about">About</a>
